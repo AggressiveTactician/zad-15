@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Napisz  program,  który  pobierze  od  użytkownika  10  dowolnie  dużych  liczb (zmiennych typu int) i wypisze te,
+        // które wystąpiły minimum dwukrotnie.
     }
 }
